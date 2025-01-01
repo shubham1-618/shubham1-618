@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @shubham1-618
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m **Shubham Sahare** – a passionate **DevOps Engineer** with 5+ years of experience in automating infrastructure, building CI/CD pipelines, and optimizing cloud environments 🌐.
 
-<!---
-shubham1-618/shubham1-618 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Skilled in tools like **Docker, Kubernetes, Terraform, AWS, Azure DevOps**, and scripting with **Python/Bash**. I thrive on solving complex challenges and streamlining processes to deliver scalable solutions.
+
+🎯 Notable highlights:
+- Automated server configurations using **GitHub Actions**.
+- Managed Kubernetes clusters for optimized deployments 🚢.
+- Azure-certified and committed to continuous learning 📘.
+
+💡 Let’s collaborate to build something impactful!
